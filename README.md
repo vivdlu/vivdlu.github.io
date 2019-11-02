@@ -1,2 +1,1 @@
-# vivdlu.github.io
-Work by Vivian Lu
+# https://vivdlu.github.io/
